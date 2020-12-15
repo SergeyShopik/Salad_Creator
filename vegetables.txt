@@ -1,0 +1,7 @@
+c Poland 10 0 3 young 1
+t Belarus 30 0 5 red 0
+l Chezh 5 0 6 white 0,9
+t France 20 1 10 red 1
+l Norway 9 1 Brussel 0,8
+c Belarus 50 0 2 middle 0
+c Russia 15 0 2 middle 1

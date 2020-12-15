@@ -1,0 +1,2 @@
+C:\Users\HP\source\repos\Vegetables\Debug\Vegetables.exe
+C:\Users\HP\source\repos\Vegetables\Debug\Vegetables.pdb
